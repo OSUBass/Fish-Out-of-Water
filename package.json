@@ -1,6 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
+  "private": "true",
   "description": "Web Dev project ",
   "main": "index.js",
   "scripts": {
